@@ -2,4 +2,4 @@
 
 Meu nome é **Samantha** e sou uma nova estudante na area de tecnologia.
 
-⭐ Obrigado por visitar meu perfil!
+** Obrigado por visitar meu perfil! **
